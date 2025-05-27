@@ -74,7 +74,9 @@ To replicate or review the analysis:
    ```bash
    PredictingAndPreventingThemeParkIncidents.ipynb
    ```
-      
+
+- Download the Excel file (ensure that it is saved in the same directory as the notebook)
+  
 - Ensure you have Python 3.x and the following libraries installed:
 
    ```bash
